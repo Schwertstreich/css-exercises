@@ -1,0 +1,22 @@
+* {
+    font-family: sans-serif;
+}
+.aClass {
+    font-size: 1.7rem;
+    background-color: rgb(255, 167, 167);
+}
+
+#blueGuy {
+    font-size: 3rem;
+    color: rgb(34, 34, 185);
+}
+
+#greenGuy {
+    font-weight: bold;
+    font-size: 1.8rem;
+    background-color: rgb(101, 216, 101)
+}
+
+.aClass.cooler {
+    font-size: 2.4rem;
+}
